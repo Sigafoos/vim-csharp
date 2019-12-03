@@ -12,3 +12,4 @@ if ! exists('b:current_compiler')
 endif
 
 set syntax=cs
+set tabstop=4 shiftwidth=4 expandtab
